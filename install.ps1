@@ -1,1 +1,1 @@
-Write-Host "Your script is executed successfully."
+	<taskbar:DesktopApp DesktopApplicationLinkPath="C:\Program Files\iTunes\iTunes.exe" />
