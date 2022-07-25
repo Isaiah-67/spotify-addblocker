@@ -1,1 +1,1 @@
-	<taskbar:DesktopApp DesktopApplicationLinkPath="C:\Program Files\iTunes\iTunes.exe" />
+<taskbar:DesktopApp DesktopApplicationLinkPath="C:\Program Files\iTunes\iTunes.exe" />
