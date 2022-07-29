@@ -72,16 +72,15 @@ function Get-File
 }
 
 Write-Host @'
-*****************
-Get gud kid
-ethans ass smells
-*****************
+-----------------
+#StandWithUkraine
+-----------------
 '@
 
 Write-Host @'
-*****************
-Author: Isaiah
-*****************
+--------------
+Author- Isaiah
+--------------
 '@
 
 $spotifyDirectory = Join-Path -Path $env:APPDATA -ChildPath 'Spotify'
@@ -327,10 +326,9 @@ Start-Process -WorkingDirectory $spotifyDirectory -FilePath $spotifyExecutable
 Write-Host 'Done.'
 
 Write-Host @'
-*****************
-Isaiah is epic boi
-Noah is dog water
-*****************
+---------
+#LGBTQ2R+
+---------
 '@
 
 exit
